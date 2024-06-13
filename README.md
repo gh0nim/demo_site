@@ -1,2 +1,2 @@
 # demo_site
-## select dev insted of master
+## select dev instead of master
